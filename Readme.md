@@ -4,4 +4,5 @@
 
 hình ảnh 
 
-![Uploading image.png…]()
+<img width="900" height="2030" alt="image" src="https://github.com/user-attachments/assets/9279c5bb-1582-45be-acbe-cc9e08b3d755" />
+
